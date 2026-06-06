@@ -1,6 +1,6 @@
 # "Turning Business Problems into AI-Powered Solutions."
 
-## 🚀 AI Solution Architect
+## 🚀 Janardhana Adatravu - AI Solution Architect
 
 Passionate about building enterprise-grade AI solutions, Agentic AI systems, Retrieval Augmented Generation (RAG) architectures, and Machine Learning applications.
 
