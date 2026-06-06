@@ -1,6 +1,6 @@
-# Hi 👋, I'm Ram Prasad Vallabhadas
+# Hi 👋, Janardhana Adatravu
 
-## 🚀 Generative AI Engineer | Delivery Manager | Python Developer
+## 🚀 AI Solution Architect
 
 Passionate about building enterprise-grade AI solutions, Agentic AI systems, Retrieval Augmented Generation (RAG) architectures, and Machine Learning applications.
 
