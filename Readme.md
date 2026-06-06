@@ -1,4 +1,4 @@
-# Hi 👋, Janardhana Adatravu
+# "Turning Business Problems into AI-Powered Solutions."
 
 ## 🚀 AI Solution Architect
 
@@ -161,11 +161,10 @@ I enjoy transforming complex business problems into scalable AI-powered solution
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- GitHub: https://github.com/jadatravu
+- LinkedIn: https://linkedin.com/in/jadatravu
 
 ---
 
-### ⚡ Fun Fact
 
-"Turning Business Problems into AI-Powered Solutions."
+
